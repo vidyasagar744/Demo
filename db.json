@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Java",
+      "author": "James",
+      "id": 1
+    },
+    {
+      "title": "REACT",
+      "author": "facebook",
+      "id": 2
+    },
+    {
+      "title": "BOOTSTRAP",
+      "author": "css master",
+      "id": 3
+    },
+    {
+      "title": "MEDIUM",
+      "author": "medium",
+      "id": 4
+    },
+    {
+      "title": "Believe-What Life and Cricket Taught Me",
+      "author": "Suresh Raina",
+      "id": 7
+    },
+    {
+      "title": "Node",
+      "author": "node",
+      "id": 8
+    }
+  ]
+}
